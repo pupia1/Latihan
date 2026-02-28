@@ -1,5 +1,6 @@
 saya belajar branch
 
-- Bahasa Pemrograman
-  ^python
-  ^javascript
+- bahasa pemrograman
+  ^PHP
+  ^c++
+
