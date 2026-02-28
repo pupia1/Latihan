@@ -1,2 +1,3 @@
 saya sedang belajar git
 saya belajar branch
+saya belajar merge
